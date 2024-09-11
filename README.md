@@ -1,5 +1,12 @@
 Projeto de criação de website para organização de tarefas (Cadastro, visualização, exclusão e conclusão)
 
+  REQUISITOS
+  dj-database-url==2.0.0
+  Django==4.2.1
+  python-decouple==3.8
+  crispy-bootstrap5==0.7
+  usar para todas: ```pip install (nomes acima)```
+  
 Pré passos
   1. Criar uma página na sua máquina
   2. No VS Code, abrir a pasta criada
