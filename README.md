@@ -15,8 +15,21 @@ Configurações iniciais para a criação do ambiente virtual no VS Code
   4. Executar novamente:
      ```.venv\Scripts\activate```
 
-Com o ambiente ativo, fazer instalação pacote Django
+instalação pacote Django
   1. instalar o pacote Django, digitar:
      ```pip install django```
+
+Testaando localhost no navegador
+  1. Digitar:
+     ```python manage.py runserver```
+  3. Inserir na barra de pesquisa superior:
+     ```localhost:8000```
+
+
+
+
+
+
+
 
 
