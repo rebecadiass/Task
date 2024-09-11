@@ -25,6 +25,10 @@ Testaando localhost no navegador
   3. Inserir na barra de pesquisa superior:
      ```localhost:8000```
 
+Aplicação de migrações
+  1. Executar migrações, digitar:
+     ```python manage.py migrate```
+
 
 
 
