@@ -8,7 +8,7 @@ Projeto de criação de website para organização de tarefas (Cadastro, visuali
   usar para todas: ```pip install (nomes acima)```
   
 Pré passos
-  1. Criar uma página na sua máquina
+  1. Criar uma pasta na sua máquina com os arquivos disponíveis em "files" na sua máquina
   2. No VS Code, abrir a pasta criada
   3. Abrir o terminal
 
