@@ -36,6 +36,11 @@ Aplicação de migrações
   1. Executar migrações, digitar:
      ```python manage.py migrate```
 
+Criar arquivo ```.env``` no projeto (clicar com botão direito no nome do projeto e adcionar arquivo)
+  1. Em .env, digitar: ```SECRET_KEY=django-insecure-g4q@5m+*16xg3pmn&wm#iu4ow&#njdabn-!d6%cay#cc!ucvba```
+```DEBUG=True```
+```ALLOWED_HOSTS=*```
+
 
 
 
